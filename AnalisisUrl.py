@@ -25,6 +25,4 @@ print ('Respuesta con mayor owners: '+titleOwner)
 print ('Respuesta con menor views: '+titleView)
 
 #El ultimo punto no pude resolverlo, ya que requeria saber de fechas
-#Por lo que el valor de dichas fechas no pude interpretarlos
-#Pero me divertí mucho haciendo este reto ya que aprendí a programar el
-#lenguaje Python
+#Por lo que el valor de dichas fechas no pude interpretarlo
