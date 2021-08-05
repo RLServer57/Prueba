@@ -26,3 +26,4 @@ print ('Respuesta con menor views: '+titleView)
 
 #El ultimo punto no pude resolverlo, ya que requeria saber de fechas
 #Por lo que el valor de dichas fechas no pude interpretarlo
+#El punto 2 no lo pude comprender en su totalidad
